@@ -1,5 +1,5 @@
 # ES6 for Humans
-
+<br>
 <br>
 
 :loudspeaker: The complete guide is now available on [Amazon](https://www.amazon.com/ES6-Humans-Latest-Standard-JavaScript/dp/1484226224)
